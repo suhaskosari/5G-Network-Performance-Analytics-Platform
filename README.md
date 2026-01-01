@@ -107,7 +107,7 @@ MIT License
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/YOUR_USERNAME)
+suhaskosari - [GitHub](https://github.com/suhaskosari)
 
 ## 🙏 Acknowledgments
 
